@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>実験について</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      @import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
+      body { font-family: 'Noto Sans Japanese'; }
+      h1, h2, h3 {
+        font-family: 'Noto Sans Japanese';
+        font-weight: normal;
+        color: #006cb4
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+      .title, .title h1 {
+        background: #006cb4;
+        color: #CCC;
+      }
+      .leftImg {
+        width: 50%;
+        display: block;
+        float: left;
+      }
+      .rightImg {
+        width: 50%;
+        display: block;
+        float: right;
+      }
+      .leftImg > img {
+        width: 100%;
+      }
+      .rightImg > img {
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create({ sourceUrl: 'markdown/instructions.md' });
+    </script>
+  </body>
+</html>

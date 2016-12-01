@@ -117,78 +117,78 @@ class: center, middle, title
 
 # ① 木の大きさ
 
-.leftImg[![tree](../img/tree.png)]
+.leftImg[![tree](img/tree.png)]
 
-.rightImg[![tree_mod](../img/tree_mod.png)]
+.rightImg[![tree_mod](img/tree_mod.png)]
 
 ---
 
 # ② りんごの大きさ
 
-.leftImg[![appleSize](../img/appleSize.png)]
+.leftImg[![appleSize](img/appleSize.png)]
 
-.rightImg[![appleSize_mod](../img/appleSize_mod.png)]
+.rightImg[![appleSize_mod](img/appleSize_mod.png)]
 
 ---
 
 # ③ りんごの色
 
-.leftImg[![appleColor](../img/appleColor.png)]
+.leftImg[![appleColor](img/appleColor.png)]
 
-.rightImg[![appleColor_mod_mod](../img/appleColor_mod.png)]
+.rightImg[![appleColor_mod_mod](img/appleColor_mod.png)]
 
 ---
 
 # ④ 葉っぱの色
 
-.leftImg[![leaf](../img/leaf.png)]
+.leftImg[![leaf](img/leaf.png)]
 
-.rightImg[![leaf_mod](../img/leaf_mod.png)]
+.rightImg[![leaf_mod](img/leaf_mod.png)]
 
 ---
 
 # ⑤ ハクビシンの出現
 
-.leftImg[![hakubishin](../img/hakubishin.png)]
+.leftImg[![hakubishin](img/hakubishin.png)]
 
-.rightImg[![hakubishin_mod](../img/hakubishin_mod.png)]
+.rightImg[![hakubishin_mod](img/hakubishin_mod.png)]
 
 ---
 
 # ⑥ りんごのカゴの出現
 
-.leftImg[![appleBasket](../img/appleBasket.png)]
+.leftImg[![appleBasket](img/appleBasket.png)]
 
-.rightImg[![appleBasket_mod](../img/appleBasket_mod.png)]
+.rightImg[![appleBasket_mod](img/appleBasket_mod.png)]
 
 ---
 
 # ⑦ 鳥の消滅
 
-.leftImg[![bird](../img/bird.png)]
+.leftImg[![bird](img/bird.png)]
 
-.rightImg[![bird_mod](../img/bird_mod.png)]
+.rightImg[![bird_mod](img/bird_mod.png)]
 
 ---
 
 # ⑧ りんごの消滅
 
-.leftImg[![appleVanish](../img/appleVanish.png)]
+.leftImg[![appleVanish](img/appleVanish.png)]
 
-.rightImg[![appleVanish_mod](../img/appleVanish_mod.png)]
+.rightImg[![appleVanish_mod](img/appleVanish_mod.png)]
 
 ---
 
 # ⑨ はしごの位置
 
-.leftImg[![hashigo](../img/hashigo.png)]
+.leftImg[![hashigo](img/hashigo.png)]
 
-.rightImg[![hashigo_mod](../img/hashigo_mod.png)]
+.rightImg[![hashigo_mod](img/hashigo_mod.png)]
 
 ---
 
 # ⑩ りんごの影の位置
 
-.leftImg[![shadow](../img/shadow.png)]
+.leftImg[![shadow](img/shadow.png)]
 
-.rightImg[![shadow_mod](../img/shadow_mod.png)]
+.rightImg[![shadow_mod](img/shadow_mod.png)]

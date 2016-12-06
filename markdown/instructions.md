@@ -69,9 +69,9 @@ class: center, middle, title
 
 + 注視点の変更　　　　　　　　：　ドラッグ
 + アニメーションの再生・停止　：　ダブルクリック
-+ スクリーンショットの撮影　　：　Enter
++ スクリーンショットの撮影　　：　「ウィンドウをキャプチャ」をクリック  
 
-
+.centerImg[![screenshot](img/screenshot.jpg)]
 
 ---
 
